@@ -2,7 +2,7 @@ print("=-" * 33)
 print("Verify how many times the same chars meet.")
 print("=-" * 33)
 
-num = input('Manda: ')
+num = input('Send: ')
 
 ax = 0
 n = 1
